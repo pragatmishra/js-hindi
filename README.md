@@ -1,2 +1,1 @@
-# js-hindi
-code repo for javascript series
+# market store analysis
